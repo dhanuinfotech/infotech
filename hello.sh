@@ -1,1 +1,3 @@
-new file in git 
+new file in git
+this is in development branch
+this is in master branch
